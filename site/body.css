@@ -5,15 +5,16 @@ body{
 }
 
 header{
+    border-bottom: 5px solid goldenrod;
+    font-style:italic;
     text-align: center;
     padding: 20px;
-    font-size: 20px;
+    font-size: 35px;
     color: gold;
 }
 
 div{
-    padding: 20px;
-    text-align: center;
-    color: yellow;
-    font-style:italic;
+    padding: 5px;
+    font-size: 25px;
+    color: rgb(255, 166, 0);
 }
